@@ -5,7 +5,7 @@ from screens.controls_screen import controls_screen
 from screens.map_selection import map_selection_screen
 from game.core import run_game
 
-base_path = Path(__file__).parent  #c:\Users\ADMIN\Desktop\pythonCodes\NewTag
+base_path = Path(__file__).parent
 
 
 def main():
