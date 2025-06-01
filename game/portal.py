@@ -1,4 +1,3 @@
-# game/portal.py
 import pygame
 from pathlib import Path
 
