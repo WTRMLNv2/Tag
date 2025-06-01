@@ -1,4 +1,3 @@
-# game/core.py
 import pygame, random, sys
 from game.player import Player #type:ignore
 from game.platform import Platform #type:ignore
