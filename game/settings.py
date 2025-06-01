@@ -1,4 +1,4 @@
-# game/settings.py
+
 SCREEN_WIDTH = 1300
 SCREEN_HEIGHT = 640
 COOLDOWN_TIME = 1000
