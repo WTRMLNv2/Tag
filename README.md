@@ -24,3 +24,6 @@ Make sure the file structure stays intact and run **main.py**
   1. No barriers on the side wall
   2. Touching the side of a platform makes your character go above the platform or below the platform
   3. When walking off the platform, the game thinks you are still on the ground and lets you jump midair (but the player is still affected by gravity)
+
+
+Made with ❤️ by Ansh
