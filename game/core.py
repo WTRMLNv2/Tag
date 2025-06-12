@@ -25,6 +25,9 @@ def run_game(screen, selected_map):
     blue_img = pygame.transform.scale(pygame.image.load(str(images_path / "Blue_player.png")), (26, 30))
     red_img = pygame.transform.scale(pygame.image.load(str(images_path / "Red_player.png")), (26, 30))
 
+    icon_img = pygame.image.load(str(assets_path / "TagLogo.png"))
+    pygame.display.set_icon(icon_img)
+
     tag_sound = pygame.mixer.Sound(str(sounds_path / "pop_sound.mp3"))
 
     # Pick background and platform layout
