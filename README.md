@@ -29,4 +29,4 @@ Make sure the file structure stays intact and run **main.py**
   3. When walking off the platform, the game thinks you are still on the ground and lets you jump midair (but the player is still affected by gravity)
 
 
-Made with ❤️ by Ansh
+Made with ❤️, debugged with 😭 by Ansh
